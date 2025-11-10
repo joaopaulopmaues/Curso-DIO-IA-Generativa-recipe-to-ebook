@@ -30,15 +30,15 @@ Google Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Okay antes disso, quero escrever um ebook profissional. O tema é incidentes de ransomware com nicho de segurança da informação e subnicho ataques de ransomware. O título deve ser curto e épico com temática nerd de video games. Me sugira 20 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em cibersegurança, listando os tipos de ransomware mais frequentes, explicando o ciclo de vida do incidente de ransomware e medidas recomendadas que podem ser feitas antes, durante e depois do ataque de ransomware {REGRAS} Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais, sempre deixe um título sugestivo por tópico e sempre que possível traga um exemplo por tópico |
 
 
 Para imagem de capa：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | \imagine Prompt: Save game screen from action game, 1 save slot available named backup, pixel art style, 64-bit theme: Incidente de ransomware. destaque para o título e subtítulo do Ebook: Save State: Recuperação de Ransomware |
 
 ## ✨ Features
 
